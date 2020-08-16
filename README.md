@@ -1,1 +1,1 @@
-# Sentiment_Analysis_Capstone_Project
+# Sentiment Analysis Capstone Project
