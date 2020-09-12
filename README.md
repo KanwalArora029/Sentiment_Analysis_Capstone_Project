@@ -20,3 +20,4 @@
 
     Kaggle - IMDB Movie Review Database
     Kaggle - Amazon Reviews Daatabase (For Different Products.)
+    Glove text file for vectorized representation for the text 
