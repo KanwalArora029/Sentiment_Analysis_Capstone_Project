@@ -20,4 +20,8 @@
 
     Kaggle - IMDB Movie Review Database
     Kaggle - Amazon Reviews Daatabase (For Different Products.)
-    Glove text file for vectorized representation for the text 
+    Glove text file for vectorized representation for the text.
+
+## Blog Link
+
+https://kanwalarora029.github.io/movie_review_sentiment_analysis_using_ann_dnn_with_lstm
