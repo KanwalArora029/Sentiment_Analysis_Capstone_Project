@@ -8,6 +8,9 @@
 
     Problem Understanding
         > Cleaning and pre-processing the review text. Using Glove Vector, TF-IDF and Label Encoder
+        > Multinomial NB
+        > Bernouli NB
+        > Logistic Regression
         > BiLSTM (Deep Learning)
         > Artificial Neural Network
         > Conclusion
