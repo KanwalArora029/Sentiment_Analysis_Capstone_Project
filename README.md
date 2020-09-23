@@ -27,7 +27,7 @@
 
 ## Blog Link
 
-https://kanwalarora029.github.io/movie_review_sentiment_analysis_using_ann_dnn_with_lstm
+    https://kanwalarora029.github.io/movie_review_sentiment_analysis_using_ann_dnn_with_lstm
 
 
 ## Walkthrough Recording Link
