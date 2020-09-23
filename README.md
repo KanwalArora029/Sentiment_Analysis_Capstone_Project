@@ -25,11 +25,10 @@
     Kaggle - Amazon Reviews Daatabase (For Different Products.)
     Glove text file for vectorized representation for the text.
 
+## Walkthrough Recording Link
+
+    https://drive.google.com/file/d/1B2IMDxZ5JSEQMUHl68hhTpLSLWdH35JO/view?usp=sharing
+
 ## Blog Link
 
     https://kanwalarora029.github.io/movie_review_sentiment_analysis_using_ann_dnn_with_lstm
-
-
-## Walkthrough Recording Link
-
-https://drive.google.com/file/d/1B2IMDxZ5JSEQMUHl68hhTpLSLWdH35JO/view?usp=sharing
